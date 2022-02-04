@@ -1,0 +1,17 @@
+===
+3
+1 3 3
+2 1 4
+0 6 4
+---
+all longest paths tree from initialVertex:
+initialVertex -> [0][0] = 1
+initialVertex -> [0][1] = 5
+initialVertex -> [0][2] = 8
+initialVertex -> [1][0] = 2
+initialVertex -> [1][1] = 3
+initialVertex -> [1][2] = 12
+initialVertex -> [2][0] = 0
+initialVertex -> [2][1] = 8
+initialVertex -> [2][2] = 12
+longest path tree from vertex 'initialVertex' = 12
