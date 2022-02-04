@@ -4,7 +4,7 @@ Run with (tested on Ubuntu 21.10, Java 16):
 chmod +x build.sh
 run.sh
 ```
-Or, get prebuilt JAR: https://neitex.me/gp/test1.jar
+Or, get prebuilt JAR: https://neitex.me/test1.jar
 
 ## Running:
 Program reads size of array (i) and array itself.
