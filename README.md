@@ -2,7 +2,7 @@
 Build with (tested on Ubuntu 21.10, Java 16):
 ```bash
 chmod +x build.sh
-build.sh
+./build.sh
 ```
 
 and run with
