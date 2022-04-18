@@ -1,10 +1,14 @@
 # GP Solutions test 1
-Run with (tested on Ubuntu 21.10, Java 16):
+Build with (tested on Ubuntu 21.10, Java 16):
 ```bash
 chmod +x build.sh
-run.sh
+build.sh
 ```
-Or, get prebuilt JAR: https://neitex.me/test1.jar
+
+and run with
+```bash
+java -jar executable.jar
+```
 
 ## Running:
 Program reads size of array (i) and array itself.
